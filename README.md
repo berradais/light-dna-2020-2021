@@ -1,5 +1,12 @@
 # Course of Tools for Data Science at UM6P
 
+### Colab: colab.research.google.com
+
+You can run course notebooks into colab: 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/berradais/dna-2020-2021/)    
+
+
 ### Content
 
 0. Part 0 : environment setup
