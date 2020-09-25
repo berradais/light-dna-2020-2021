@@ -1,0 +1,25 @@
+
+
+
+
+
+
+
+
+
+
+
+
+git checkout master
+git merge bio
+
+git remote add origin https://github.com/berradais/burger.git
+git remote remove origin
+git pull burger
+git push  https://github.com/berradais/burger.git  master
+git push -f origin master
+git status
+git checkout bio
+git log
+git remote -v
+git config --list
