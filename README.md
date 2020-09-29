@@ -1,4 +1,4 @@
-# Course of "Tools for Data Science" at UM6P
+# Course of "Tools for Data Science"
 
 ### Colab: colab.research.google.com
 
