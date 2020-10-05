@@ -42,6 +42,10 @@ git branch
 # Show all commit points: * HEAD and current
 git log
 
+# untrack all files
+
+git rm -r --cached .
+
 
 
 git checkout master
