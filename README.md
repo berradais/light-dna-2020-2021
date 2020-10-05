@@ -27,7 +27,7 @@ You can run course notebooks into colab:
     - NumPy
     - SciPy
     - Pandas
-    - MetplotLab
+    - Matplotlib
     - Seaborn
     - Scikit-learn
 3. Part 3 :  data science project
