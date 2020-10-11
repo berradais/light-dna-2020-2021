@@ -4,7 +4,7 @@
 
 You can run course notebooks into colab: 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/berradais/dna-2020-2021/)    
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/berradais/light-dna-2020-2021/)    
 
 
 ### Content
